@@ -1,0 +1,21 @@
+StartChar: bracketright
+Encoding: 93 93 64
+Width: 600
+GlyphClass: 1
+Flags: W
+HStem: -115 71<165 336 165 416 165 336> 743 72<165 336 165 416>
+VStem: 336 80<-44 743 743 743>
+LayerCount: 2
+Fore
+SplineSet
+416 815 m 1,0,-1
+ 416 -115 l 1,1,-1
+ 165 -115 l 1,2,-1
+ 165 -44 l 1,3,-1
+ 336 -44 l 1,4,-1
+ 336 743 l 1,5,-1
+ 165 743 l 1,6,-1
+ 165 815 l 1,7,-1
+ 416 815 l 1,0,-1
+EndSplineSet
+EndChar

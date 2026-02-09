@@ -1,0 +1,21 @@
+StartChar: T
+Encoding: 84 84 55
+Width: 600
+GlyphClass: 1
+Flags: W
+HStem: 0 21G<255 342 255 255> 614 75<40 255 40 559 342 550 342 342>
+VStem: 255 87<0 614 0 614>
+LayerCount: 2
+Fore
+SplineSet
+342 614 m 1,0,-1
+ 342 0 l 1,1,-1
+ 255 0 l 1,2,-1
+ 255 614 l 1,3,-1
+ 40 614 l 1,4,-1
+ 40 689 l 1,5,-1
+ 559 689 l 1,6,-1
+ 550 614 l 1,7,-1
+ 342 614 l 1,0,-1
+EndSplineSet
+EndChar

@@ -1,0 +1,20 @@
+StartChar: greater
+Encoding: 62 62 33
+Width: 600
+GlyphClass: 1
+Flags: W
+HStem: 510 20G<88 88>
+VStem: 441 72<313 313>
+LayerCount: 2
+Fore
+SplineSet
+129 594 m 1,0,-1
+ 513 356 l 1,1,-1
+ 513 270 l 1,2,-1
+ 133 33 l 1,3,-1
+ 88 95 l 1,4,-1
+ 441 313 l 1,5,-1
+ 88 530 l 1,6,-1
+ 129 594 l 1,0,-1
+EndSplineSet
+EndChar
