@@ -1,5 +1,5 @@
 StartChar: bracketright
-Encoding: 93 93 64
+Encoding: 93 93 63
 Width: 600
 GlyphClass: 1
 Flags: W
@@ -18,4 +18,7 @@ SplineSet
  165 815 l 1,7,-1
  416 815 l 1,0,-1
 EndSplineSet
+Validated: 1
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 23 subtable" bracketright.case
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" bracketright.case
 EndChar

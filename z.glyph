@@ -1,5 +1,5 @@
 StartChar: z
-Encoding: 122 122 93
+Encoding: 122 122 92
 Width: 600
 GlyphClass: 1
 Flags: W
@@ -20,4 +20,5 @@ SplineSet
  495 461 l 1,9,-1
  205 72 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar

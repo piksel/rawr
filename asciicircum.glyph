@@ -1,5 +1,5 @@
 StartChar: asciicircum
-Encoding: 94 94 65
+Encoding: 94 94 64
 Width: 600
 GlyphClass: 1
 Flags: W
@@ -17,4 +17,5 @@ SplineSet
  263 840 l 1,6,-1
  337 840 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar

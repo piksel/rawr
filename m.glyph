@@ -1,10 +1,11 @@
 StartChar: m
-Encoding: 109 109 80
+Encoding: 109 109 79
 Width: 600
 GlyphClass: 1
 Flags: W
 HStem: 0 21G<51 128 51 51 261 339 261 261 472 549 472 472> 472 66<209.5 239 420.5 450> 507 20G<51 116 116 116>
 VStem: 51 77<0 409 0 527> 261 78<0 378 378 409 0 411.5> 472 77<0 378 378 392 0 411.5>
+CounterMasks: 1 1c
 LayerCount: 2
 Fore
 SplineSet
@@ -31,4 +32,5 @@ SplineSet
  310 538 310 538 331 468 c 1,27,28
  379 538 379 538 447 538 c 0,0,1
 EndSplineSet
+Validated: 8388609
 EndChar

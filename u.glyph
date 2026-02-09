@@ -1,5 +1,5 @@
 StartChar: u
-Encoding: 117 117 88
+Encoding: 117 117 87
 Width: 600
 GlyphClass: 1
 Flags: W
@@ -26,4 +26,5 @@ SplineSet
  100 527 l 1,19,-1
  184 527 l 1,0,-1
 EndSplineSet
+Validated: 8388609
 EndChar

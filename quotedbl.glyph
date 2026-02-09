@@ -1,5 +1,5 @@
 StartChar: quotedbl
-Encoding: 34 34 5
+Encoding: 34 34 4
 Width: 600
 GlyphClass: 1
 Flags: W
@@ -19,4 +19,5 @@ SplineSet
  421 479 l 1,7,-1
  347 479 l 1,4,-1
 EndSplineSet
+Validated: 1
 EndChar

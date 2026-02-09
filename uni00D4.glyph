@@ -1,11 +1,9 @@
 StartChar: uni00D4
-Encoding: 212 212 150
-Width: 1155
-GlyphClass: 1
+Encoding: 212 212 423
+Width: 600
 Flags: W
 LayerCount: 2
 Fore
-Refer: 204 -1 N 1 0 0 1 0 0 0
-Refer: 208 -1 N 1 0 0 1 637 462 0
-Refer: 198 -1 N 1 0 0 1 637 30 0
+Refer: 38 -1 N 0.5 0 0 0.5 150 462 0
+Refer: 22 -1 N 0.5 0 0 0.5 150 30 0
 EndChar

@@ -1,5 +1,5 @@
 StartChar: q
-Encoding: 113 113 84
+Encoding: 113 113 83
 Width: 600
 GlyphClass: 1
 Flags: W
@@ -26,4 +26,5 @@ SplineSet
  416 402 l 1,21,22
  372 470 372 470 295 470 c 0,14,15
 EndSplineSet
+Validated: 8388609
 EndChar

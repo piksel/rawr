@@ -1,5 +1,5 @@
 StartChar: R
-Encoding: 82 82 53
+Encoding: 82 82 52
 Width: 600
 GlyphClass: 1
 Flags: W
@@ -28,4 +28,5 @@ SplineSet
  289 363 l 2,19,20
  445 363 445 363 445 495 c 0,13,14
 EndSplineSet
+Validated: 1
 EndChar

@@ -1,112 +1,41 @@
 StartChar: six
-Encoding: 265 -1 200
-Width: 307
+Encoding: 54 54 24
+Width: 600
 GlyphClass: 1
 Flags: W
-TtInstrs:
-NPUSHB
- 33
- 1
- 30
- 30
- 64
- 31
- 0
- 16
- 12
- 11
- 16
- 11
- 26
- 2
- 7
- 22
- 2
- 0
- 28
- 5
- 3
- 14
- 5
- 9
- 24
- 5
- 20
- 9
- 1
- 3
- 0
- 1
- 7
- 70
-SROUND
-MDAP[rnd]
-SHZ[rp1]
-RTG
-SVTCA[y-axis]
-MIAP[rnd]
-MIAP[rnd]
-MDAP[rnd]
-MIRP[rp0,min,rnd,black]
-SRP0
-MIRP[rp0,min,rnd,black]
-SRP0
-MIRP[rp0,min,rnd,black]
-SVTCA[x-axis]
-MDAP[rnd]
-MIRP[rp0,min,rnd,black]
-MDAP[rnd]
-MIRP[rp0,min,rnd,black]
-MDAP[no-rnd]
-MDAP[no-rnd]
-SVTCA[y-axis]
-MDAP[no-rnd]
-MDAP[no-rnd]
-MDAP[no-rnd]
-IUP[x]
-IUP[y]
-SVTCA[x-axis]
-MD[grid]
-ROUND[Grey]
-PUSHW_2
- 7
- 30
-MD[grid]
-ROUND[Grey]
-SUB
-PUSHB_1
- 64
-GT
-IF
-SHPIX
-SRP1
-SHZ[rp1]
-PUSHW_2
- 30
- -64
-SHPIX
-EIF
-EndTTInstrs
+HStem: -11 68<259 351.5 259 368> 380 68<296 353> 632 68<281 353>
+VStem: 79 85 439 86<176 285.5>
 LayerCount: 2
 Fore
 SplineSet
-282 119 m 0,0,1
- 282 61 282 61 249.5 26.5 c 128,-1,2
- 217 -8 217 -8 158 -8 c 0,3,4
- 74 -8 74 -8 47 43 c 0,5,6
- 26 81 26 81 26 189 c 0,7,8
- 26 405 26 405 160 405 c 0,9,10
- 258 405 258 405 271 302 c 1,11,-1
- 218 302 l 1,12,13
- 213 362 213 362 159 362 c 0,14,15
- 76 362 76 362 80 195 c 1,16,17
- 101 223 101 223 111 230 c 0,18,19
- 131 245 131 245 164 245 c 0,20,21
- 282 245 282 245 282 119 c 0,0,1
-225 119 m 256,22,23
- 225 203 225 203 156 203 c 0,24,25
- 86 203 86 203 86 119 c 256,26,27
- 86 35 86 35 156 35 c 0,28,29
- 225 35 225 35 225 119 c 256,22,23
+330 448 m 0,0,1
+ 414 448 414 448 469.5 392.5 c 128,-1,2
+ 525 337 525 337 525 232 c 0,3,4
+ 525 120 525 120 463 54.5 c 128,-1,5
+ 401 -11 401 -11 308 -11 c 0,6,7
+ 79 -11 79 -11 79 325 c 0,8,9
+ 79 498 79 498 147 599 c 128,-1,10
+ 215 700 215 700 335 700 c 0,11,12
+ 410 700 410 700 472 659 c 1,13,-1
+ 439 603 l 1,14,15
+ 390 632 390 632 334 632 c 0,16,17
+ 255 632 255 632 210.5 558 c 128,-1,18
+ 166 484 166 484 164 356 c 1,19,20
+ 225 448 225 448 330 448 c 0,0,1
+308 57 m 0,21,22
+ 372 57 372 57 405.5 102.5 c 128,-1,23
+ 439 148 439 148 439 229 c 0,24,25
+ 439 380 439 380 317 380 c 0,26,27
+ 222 380 222 380 165 282 c 1,28,29
+ 167 165 167 165 201 111 c 128,-1,30
+ 235 57 235 57 308 57 c 0,21,22
 EndSplineSet
+Validated: 1
+Substitution2: "'onum' Oldstyle Figures in Latin lookup 22 subtable" six.tosf
+Substitution2: "'frac' Diagonal Fractions in Latin lookup 17 subtable" six.numr
+Substitution2: "'dnom' Denominators in Latin lookup 15 subtable" six.dnom
+Substitution2: "'numr' Numerators in Latin lookup 14 subtable" six.numr
+Substitution2: "'sups' Superscript in Latin lookup 13 subtable" uni2076
+Substitution2: "'subs' Subscript in Latin lookup 12 subtable" uni2086
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" uni2086 uni2076 six.numr six.dnom six.tosf
 EndChar

@@ -1,5 +1,5 @@
 StartChar: asterisk
-Encoding: 42 42 13
+Encoding: 42 42 12
 Width: 600
 GlyphClass: 1
 Flags: W
@@ -25,4 +25,5 @@ SplineSet
  258 527 l 1,14,-1
  342 527 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar

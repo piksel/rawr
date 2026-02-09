@@ -1,5 +1,5 @@
 StartChar: numbersign
-Encoding: 35 35 6
+Encoding: 35 35 5
 Width: 600
 GlyphClass: 1
 Flags: W
@@ -43,4 +43,7 @@ SplineSet
  241 456 l 1,31,-1
  212 234 l 1,28,-1
 EndSplineSet
+Validated: 1
+Substitution2: "'onum' Oldstyle Figures in Latin lookup 22 subtable" numbersign.tosf
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" numbersign.tosf
 EndChar

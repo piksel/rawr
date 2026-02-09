@@ -1,5 +1,5 @@
 StartChar: colon
-Encoding: 58 58 29
+Encoding: 58 58 28
 Width: 600
 GlyphClass: 1
 Flags: W
@@ -27,4 +27,5 @@ SplineSet
  265 -11 265 -11 242 12 c 128,-1,23
  219 35 219 35 219 70 c 0,12,13
 EndSplineSet
+Validated: 1
 EndChar

@@ -1,5 +1,5 @@
 StartChar: o
-Encoding: 111 111 82
+Encoding: 111 111 81
 Width: 600
 GlyphClass: 1
 Flags: W
@@ -23,4 +23,7 @@ SplineSet
  436 58 436 58 436 264 c 0,16,17
  436 469 436 469 301 469 c 0,11,12
 EndSplineSet
+Validated: 1
+Substitution2: "Single Substitution lookup 29 subtable" ordmasculine
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" ordmasculine
 EndChar

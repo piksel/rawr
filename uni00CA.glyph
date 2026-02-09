@@ -1,11 +1,9 @@
 StartChar: uni00CA
-Encoding: 202 202 140
-Width: 1155
-GlyphClass: 1
+Encoding: 202 202 413
+Width: 600
 Flags: W
 LayerCount: 2
 Fore
-Refer: 204 -1 N 1 0 0 1 0 0 0
-Refer: 207 -1 N 1 0 0 1 637 462 0
-Refer: 205 -1 N 1 0 0 1 584 30 0
+Refer: 37 -1 N 0.5 0 0 0.5 150 462 0
+Refer: 35 -1 N 0.5 0 0 0.5 150 30 0
 EndChar

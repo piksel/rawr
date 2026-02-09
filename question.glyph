@@ -1,5 +1,5 @@
 StartChar: question
-Encoding: 63 63 34
+Encoding: 63 63 33
 Width: 600
 GlyphClass: 1
 Flags: W
@@ -39,4 +39,5 @@ SplineSet
  210 84 210 84 229.5 103.5 c 128,-1,35
  249 123 249 123 277 123 c 0,26,27
 EndSplineSet
+Validated: 8388609
 EndChar

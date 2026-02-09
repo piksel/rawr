@@ -1,5 +1,5 @@
 StartChar: h
-Encoding: 104 104 75
+Encoding: 104 104 74
 Width: 600
 GlyphClass: 1
 Flags: W
@@ -25,4 +25,5 @@ SplineSet
  100 738 l 1,18,-1
  184 747 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar

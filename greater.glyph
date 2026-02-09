@@ -1,5 +1,5 @@
 StartChar: greater
-Encoding: 62 62 33
+Encoding: 62 62 32
 Width: 600
 GlyphClass: 1
 Flags: W
@@ -17,4 +17,7 @@ SplineSet
  88 530 l 1,6,-1
  129 594 l 1,0,-1
 EndSplineSet
+Validated: 1
+Substitution2: "'onum' Oldstyle Figures in Latin lookup 22 subtable" greater.tosf
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" greater.tosf
 EndChar

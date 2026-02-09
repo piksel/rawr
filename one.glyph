@@ -1,91 +1,32 @@
 StartChar: one
-Encoding: 260 -1 195
-Width: 307
+Encoding: 49 49 19
+Width: 600
 GlyphClass: 1
 Flags: W
-TtInstrs:
-NPUSHB
- 26
- 1
- 9
- 9
- 64
- 10
- 0
- 4
- 2
- 5
- 4
- 3
- 0
- 2
- 1
- 2
- 8
- 0
- 8
- 7
- 1
- 1
- 0
- 0
- 1
- 4
- 70
-SROUND
-MDAP[rnd]
-SHZ[rp1]
-RTG
-SVTCA[y-axis]
-MIAP[rnd]
-ALIGNRP
-MIAP[rnd]
-ALIGNRP
-SVTCA[x-axis]
-MDAP[rnd]
-ALIGNRP
-MIRP[rp0,min,rnd,black]
-ALIGNRP
-SRP0
-MIRP[rp0,min,rnd,black]
-ALIGNRP
-SVTCA[y-axis]
-MDAP[no-rnd]
-MDAP[no-rnd]
-IUP[x]
-IUP[y]
-SVTCA[x-axis]
-MD[grid]
-ROUND[Grey]
-PUSHW_2
- 4
- 9
-MD[grid]
-ROUND[Grey]
-SUB
-PUSHB_1
- 64
-GT
-IF
-SHPIX
-SRP1
-SHZ[rp1]
-PUSHW_2
- 9
- -64
-SHPIX
-EIF
-EndTTInstrs
+HStem: 0 68<120 289 374 517 120 289> 669 20G<300 374 374 374>
+VStem: 289 85<68 597 597 597>
 LayerCount: 2
 Fore
 SplineSet
-208 0 m 1,0,-1
- 157 0 l 1,1,-1
- 157 331 l 1,2,3
- 111 293 111 293 71 285 c 1,4,-1
- 71 331 l 1,5,6
- 122 348 122 348 153 397 c 1,7,-1
- 208 397 l 1,8,-1
- 208 0 l 1,0,-1
+374 68 m 1,0,-1
+ 517 68 l 1,1,-1
+ 517 0 l 1,2,-1
+ 120 0 l 1,3,-1
+ 120 68 l 1,4,-1
+ 289 68 l 1,5,-1
+ 289 597 l 1,6,-1
+ 132 502 l 1,7,-1
+ 95 561 l 1,8,-1
+ 300 689 l 1,9,-1
+ 374 689 l 1,10,-1
+ 374 68 l 1,0,-1
 EndSplineSet
+Validated: 1
+Substitution2: "'onum' Oldstyle Figures in Latin lookup 22 subtable" one.tosf
+Substitution2: "'frac' Diagonal Fractions in Latin lookup 17 subtable" one.numr
+Substitution2: "'dnom' Denominators in Latin lookup 15 subtable" one.dnom
+Substitution2: "'numr' Numerators in Latin lookup 14 subtable" one.numr
+Substitution2: "'sups' Superscript in Latin lookup 13 subtable" uni00B9
+Substitution2: "'subs' Subscript in Latin lookup 12 subtable" uni2081
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" uni2081 uni00B9 one.numr one.dnom one.tosf
 EndChar

@@ -1,5 +1,5 @@
 StartChar: comma
-Encoding: 44 44 15
+Encoding: 44 44 14
 Width: 600
 GlyphClass: 1
 Flags: W
@@ -19,4 +19,5 @@ SplineSet
  220 118 220 118 243 141.5 c 128,-1,0
  266 165 266 165 300 165 c 128,-1,1
 EndSplineSet
+Validated: 1
 EndChar
