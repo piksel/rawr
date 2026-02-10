@@ -5,6 +5,8 @@ GlyphClass: 1
 Flags: W
 HStem: 0 72<183 282> 324 72<183 294 294 300 183 294> 618 71<183 266 266 286 183 183>
 VStem: 96 87<72 324 396 618> 421 89<470.5 549.5> 448 92<142 245.5>
+AnchorPoint: "Anchor-5" 300 689 basechar 0
+AnchorPoint: "Anchor-4" 300 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -36,5 +38,5 @@ SplineSet
  297 72 l 2,30,31
  448 72 448 72 448 193 c 0,25,26
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar

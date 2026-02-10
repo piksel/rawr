@@ -24,11 +24,5 @@ SplineSet
  311 692 311 692 262 596 c 128,-1,16
  213 500 213 500 213 350 c 0,0,1
 EndSplineSet
-Validated: 1
-Substitution2: "'case' Case-Sensitive Forms in Latin lookup 23 subtable" parenleft.case
-Substitution2: "'dnom' Denominators in Latin lookup 15 subtable" parenleft.dnom
-Substitution2: "'numr' Numerators in Latin lookup 14 subtable" parenleft.numr
-Substitution2: "'sups' Superscript in Latin lookup 13 subtable" uni207D
-Substitution2: "'subs' Subscript in Latin lookup 12 subtable" uni208D
-AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" uni208D uni207D parenleft.numr parenleft.dnom parenleft.case
+Validated: 513
 EndChar

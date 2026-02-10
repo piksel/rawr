@@ -17,7 +17,5 @@ SplineSet
  88 357 l 1,6,-1
  472 594 l 1,0,-1
 EndSplineSet
-Validated: 1
-Substitution2: "'onum' Oldstyle Figures in Latin lookup 22 subtable" less.tosf
-Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" less.tosf
+Validated: 513
 EndChar

@@ -52,6 +52,7 @@ const boxPosY = 0;
 const boxScale = 1;
 const box = `Refer: ${boxId} -1 N ${boxScale} 0 0 ${boxScale} ${boxPosX} ${boxPosY} 0`;
 
+let skipped = 0;
 for (let index of indexes) {
     const hexId = index.toString(16).toUpperCase().padStart(2, '0');
     const refId = 211 + index;
@@ -75,9 +76,11 @@ EndChar
     }
     catch (e) {console.warn(e)}
     if (current === rendered) {
-        console.info(`${glyphFile}: Matches!`)
+        skipped++;
     } else {
         console.info(`${glyphFile}: Updated.`);
         writeFileSync(glyphFile, rendered, {encoding: 'utf-8'})
     }
 }
+
+console.log("Done! Skipped %o glyphs.", skipped);

@@ -48,7 +48,5 @@ SplineSet
  505 104 505 104 505 156 c 0,46,47
  505 256 505 256 436 256 c 0,37,38
 EndSplineSet
-Validated: 8390657
-Substitution2: "'onum' Oldstyle Figures in Latin lookup 22 subtable" percent.tosf
-Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" percent.tosf
+Validated: 2561
 EndChar

@@ -5,6 +5,8 @@ GlyphClass: 1
 Flags: W
 HStem: 0 21G<219 304 219 219> 419 67<94 219 94 219 304 473> 680 69<377.5 434>
 VStem: 219 85<0 419 0 419 486 591 591 593>
+AnchorPoint: "Anchor-5" 370 739 basechar 0
+AnchorPoint: "Anchor-4" 261 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet

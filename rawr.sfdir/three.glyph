@@ -35,12 +35,5 @@ SplineSet
  73 620 l 1,35,36
  157 700 157 700 269 700 c 0,0,1
 EndSplineSet
-Validated: 8388609
-Substitution2: "'onum' Oldstyle Figures in Latin lookup 22 subtable" three.tosf
-Substitution2: "'frac' Diagonal Fractions in Latin lookup 17 subtable" three.numr
-Substitution2: "'dnom' Denominators in Latin lookup 15 subtable" three.dnom
-Substitution2: "'numr' Numerators in Latin lookup 14 subtable" three.numr
-Substitution2: "'sups' Superscript in Latin lookup 13 subtable" uni00B3
-Substitution2: "'subs' Subscript in Latin lookup 12 subtable" uni2083
-AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" uni2083 uni00B3 three.numr three.dnom three.tosf
+Validated: 513
 EndChar

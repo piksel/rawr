@@ -30,12 +30,5 @@ SplineSet
  167 165 167 165 201 111 c 128,-1,30
  235 57 235 57 308 57 c 0,21,22
 EndSplineSet
-Validated: 1
-Substitution2: "'onum' Oldstyle Figures in Latin lookup 22 subtable" six.tosf
-Substitution2: "'frac' Diagonal Fractions in Latin lookup 17 subtable" six.numr
-Substitution2: "'dnom' Denominators in Latin lookup 15 subtable" six.dnom
-Substitution2: "'numr' Numerators in Latin lookup 14 subtable" six.numr
-Substitution2: "'sups' Superscript in Latin lookup 13 subtable" uni2076
-Substitution2: "'subs' Subscript in Latin lookup 12 subtable" uni2086
-AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" uni2086 uni2076 six.numr six.dnom six.tosf
+Validated: 513
 EndChar

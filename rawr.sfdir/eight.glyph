@@ -46,12 +46,5 @@ SplineSet
  368 57 368 57 407 92 c 128,-1,47
  446 127 446 127 446 183 c 0,35,36
 EndSplineSet
-Validated: 8388609
-Substitution2: "'onum' Oldstyle Figures in Latin lookup 22 subtable" eight.tosf
-Substitution2: "'frac' Diagonal Fractions in Latin lookup 17 subtable" eight.numr
-Substitution2: "'dnom' Denominators in Latin lookup 15 subtable" eight.dnom
-Substitution2: "'numr' Numerators in Latin lookup 14 subtable" eight.numr
-Substitution2: "'sups' Superscript in Latin lookup 13 subtable" uni2078
-Substitution2: "'subs' Subscript in Latin lookup 12 subtable" uni2088
-AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" uni2088 uni2078 eight.numr eight.dnom eight.tosf
+Validated: 513
 EndChar

@@ -5,6 +5,8 @@ GlyphClass: 1
 Flags: W
 HStem: 0 67<121 283 367 515 121 283> 460 67<126 283 126 367> 655 118<282 318.5>
 VStem: 240 122<697 731> 283 84<67 460 460 460>
+AnchorPoint: "Anchor-5" 0 0 basechar 0
+AnchorPoint: "Anchor-4" 300 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -29,11 +31,5 @@ SplineSet
  126 527 l 1,19,-1
  367 527 l 1,10,-1
 EndSplineSet
-Validated: 8388609
-Substitution2: "'locl' Localized Forms in Latin lookup 10 subtable" i.loclTRK
-Substitution2: "'locl' Localized Forms in Latin lookup 8 subtable" i.loclTRK
-Substitution2: "'locl' Localized Forms in Latin lookup 6 subtable" i.loclTRK
-Substitution2: "'locl' Localized Forms in Latin lookup 3 subtable" i.loclTRK
-Substitution2: "'locl' Localized Forms in Latin lookup 2 subtable" i.loclTRK
-Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" i.loclTRK
+Validated: 513
 EndChar

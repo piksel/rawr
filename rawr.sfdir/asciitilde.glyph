@@ -28,7 +28,5 @@ SplineSet
  121 379 121 379 147 390 c 128,-1,23
  173 401 173 401 205 401 c 0,0,1
 EndSplineSet
-Validated: 1
-Substitution2: "'onum' Oldstyle Figures in Latin lookup 22 subtable" asciitilde.tosf
-Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" asciitilde.tosf
+Validated: 513
 EndChar

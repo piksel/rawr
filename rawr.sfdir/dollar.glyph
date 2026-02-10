@@ -44,7 +44,5 @@ SplineSet
  447 231 447 231 424 261 c 128,-1,43
  401 291 401 291 346 314 c 1,38,-1
 EndSplineSet
-Validated: 8388609
-Substitution2: "'onum' Oldstyle Figures in Latin lookup 22 subtable" dollar.tosf
-Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" dollar.tosf
+Validated: 513
 EndChar

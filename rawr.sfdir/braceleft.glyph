@@ -34,7 +34,5 @@ SplineSet
  239 764 239 764 297 800 c 128,-1,30
  355 836 355 836 451 836 c 1,0,-1
 EndSplineSet
-Validated: 8388641
-Substitution2: "'case' Case-Sensitive Forms in Latin lookup 23 subtable" braceleft.case
-Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" braceleft.case
+Validated: 545
 EndChar

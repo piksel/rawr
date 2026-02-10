@@ -5,6 +5,8 @@ GlyphClass: 1
 Flags: W
 HStem: -11 63<225.5 273> 262 58<315 317 317 393> 468 70<255 307>
 VStem: 69 90<119 186 119 205> 393 85<127 262 262 262 320 363 363 368>
+AnchorPoint: "Anchor-5" 292 527 basechar 0
+AnchorPoint: "Anchor-4" 300 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -35,7 +37,5 @@ SplineSet
  159 262 159 262 159 152 c 0,34,35
  159 52 159 52 260 52 c 0,27,28
 EndSplineSet
-Validated: 1
-Substitution2: "Single Substitution lookup 29 subtable" ordfeminine
-Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" ordfeminine
+Validated: 513
 EndChar

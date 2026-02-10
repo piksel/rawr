@@ -32,11 +32,4 @@ SplineSet
  219 319 219 319 279 320 c 0,20,21
 EndSplineSet
 Validated: 545
-Substitution2: "'onum' Oldstyle Figures in Latin lookup 22 subtable" nine.tosf
-Substitution2: "'frac' Diagonal Fractions in Latin lookup 17 subtable" nine.numr
-Substitution2: "'dnom' Denominators in Latin lookup 15 subtable" nine.dnom
-Substitution2: "'numr' Numerators in Latin lookup 14 subtable" nine.numr
-Substitution2: "'sups' Superscript in Latin lookup 13 subtable" uni2079
-Substitution2: "'subs' Subscript in Latin lookup 12 subtable" uni2089
-AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" uni2089 uni2079 nine.numr nine.dnom nine.tosf
 EndChar

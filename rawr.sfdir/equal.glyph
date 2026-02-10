@@ -19,10 +19,5 @@ SplineSet
  106 252 l 1,7,-1
  494 252 l 1,4,-1
 EndSplineSet
-Validated: 1
-Substitution2: "'onum' Oldstyle Figures in Latin lookup 22 subtable" equal.tosf
-Substitution2: "'dnom' Denominators in Latin lookup 15 subtable" equal.dnom
-Substitution2: "'numr' Numerators in Latin lookup 14 subtable" equal.numr
-Substitution2: "'sups' Superscript in Latin lookup 13 subtable" uni207C
-AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" uni207C equal.numr equal.dnom equal.tosf
+Validated: 513
 EndChar

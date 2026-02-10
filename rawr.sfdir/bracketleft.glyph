@@ -18,7 +18,5 @@ SplineSet
  435 -115 l 1,7,-1
  184 -115 l 1,0,-1
 EndSplineSet
-Validated: 1
-Substitution2: "'case' Case-Sensitive Forms in Latin lookup 23 subtable" bracketleft.case
-Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" bracketleft.case
+Validated: 513
 EndChar
