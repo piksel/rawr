@@ -1,0 +1,10 @@
+StartChar: uni001B
+Encoding: 27 27 238
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 130 -1 N 1 0 0 1 0 0 0
+Refer: 19 -1 N 0.5 0 0 0.5 150 462 0
+Refer: 36 -1 N 0.5 0 0 0.5 150 30 0
+EndChar

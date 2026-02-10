@@ -1,0 +1,10 @@
+StartChar: uni00CF
+Encoding: 207 207 418
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Refer: 130 -1 N 1 0 0 1 0 0 0
+Refer: 37 -1 N 0.5 0 0 0.5 150 462 0
+Refer: 40 -1 N 0.5 0 0 0.5 150 30 0
+EndChar
