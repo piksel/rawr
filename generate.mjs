@@ -1,7 +1,9 @@
 import { writeFileSync, readFileSync } from 'node:fs'
 
+const fontBasePath = 'rawr.sfdir'
+
 const getRefId = name => {
-    const fc = readFileSync(`${name}.glyph`, {encoding: 'utf-8'});
+    const fc = readFileSync(`${fontBasePath}/${name}.glyph`, {encoding: 'utf-8'});
     const m = /Encoding: [\d|-]+ [\d|-]+ ([\d|-]+)/gm.exec(fc);
     if (!m) {
         throw new Error('Could not find reference ID for ' + name);
@@ -53,7 +55,7 @@ const box = `Refer: ${boxId} -1 N ${boxScale} 0 0 ${boxScale} ${boxPosX} ${boxPo
 for (let index of indexes) {
     const hexId = index.toString(16).toUpperCase().padStart(2, '0');
     const refId = 211 + index;
-    const glyphFile = `uni00${hexId}.glyph`;
+    const glyphFile = `${fontBasePath}/uni00${hexId}.glyph`;
 
     const rendered = `StartChar: uni00${hexId}
 Encoding: ${index} ${index} ${refId}
@@ -75,10 +77,7 @@ EndChar
     if (current === rendered) {
         console.info(`${glyphFile}: Matches!`)
     } else {
-        console.error(new Error(`${glyphFile}: Differs!`));
+        console.info(`${glyphFile}: Updated.`);
         writeFileSync(glyphFile, rendered, {encoding: 'utf-8'})
     }
 }
-
-// console.log(tpl);
-// break;
