@@ -1,0 +1,35 @@
+<style>
+    
+@font-face {
+  font-family: "rawr";
+  src: url("rawr.woff2") format('woff2');
+}
+pre {
+    font-family: 'rawr';
+    font-size: 32px;
+    width: calc(340px);
+    height: calc(600px);
+    display: block;
+    padding: 0;
+    border: 0;
+    background: aliceblue;
+    white-space: pre;
+    overflow: hidden;
+}
+
+</style>
+<pre>01234567890</pre>
+<script>
+    // Characters that will not be displayed anyway
+    const cursed = [0x09, 0x0a, 0x0c, 0x0d, 0xad];
+
+    const tb = document.querySelector('pre');
+    let s = ' 0123456789ABCDEF\n';
+    for (i = 0x00; i <= 0xff; i++) {
+        if (i % 0x10 == 0) s += (i / 0x10).toString(16);
+        const c = cursed.includes(i) ? '#' : String.fromCharCode(i);
+        s += c;
+        if (i % 0x10 == 0x0f) s += '\n';
+    }
+    tb.innerText = s;
+</script>
